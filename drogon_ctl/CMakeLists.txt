@@ -2,6 +2,7 @@ set(ctl_sources
     cmd.cc
     create.cc
     create_controller.cc
+    create_migration.cc
     create_filter.cc
     create_model.cc
     create_plugin.cc
